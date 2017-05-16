@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 30 37.5" xml:space="preserve">
+  <g transform="translate(-270 -80)">
+    <g xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+      <path d="M289.013,80.674c-3.581-1.076-7.168,0.098-9.899,2.829c-2.73,2.73-3.904,6.317-2.828,9.898c3.535-3.535,7.071,0,7.071,0    l2.828-2.828l2.828-2.828C289.013,87.745,285.477,84.209,289.013,80.674z"/>
+      <path d="M286.185,103.301c3.582,1.077,7.169-0.097,9.899-2.828c2.731-2.73,3.905-6.317,2.829-9.9c-3.536,3.535-7.071,0-7.071,0    l-2.829,2.828l-2.828,2.829C286.185,96.23,289.721,99.766,286.185,103.301z"/>
+      <rect x="268.391" y="96.873" transform="matrix(0.7071 -0.7071 0.7071 0.7071 13.306 227.8686)" width="26.646" height="2"/>
+    </g>
+  </g>
+  <text x="0" y="45" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">Created by Hea Poh Lin</text>
+  <text x="0" y="50" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">from the Noun Project</text>
+</svg>

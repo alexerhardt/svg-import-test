@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 125" enable-background="new 0 0 100 100" xml:space="preserve">
+  <g>
+    <path fill="#000000" d="M55.5,50c2.48145,0,4.5-2.01855,4.5-4.5S57.98145,41,55.5,41h-2.60059   C52.43457,38.7207,50.41455,37,48,37s-4.43506,1.7207-4.89941,4H42.5c-2.48145,0-4.5,2.01855-4.5,4.5s2.01855,4.5,4.5,4.5H55.5z"/>
+    <rect x="42.50011" y="52.37868" transform="matrix(0.70711 -0.70711 0.70711 0.70711 -25.79646 46.72182)" fill="#000000" width="1.99979" height="4.24264"/>
+    <rect x="49.00011" y="51.17157" transform="matrix(0.70711 -0.70711 0.70711 0.70711 -23.5391 51.17157)" fill="#000000" width="1.99979" height="5.65685"/>
+    <rect x="55.50011" y="51.37868" transform="matrix(0.70711 -0.70711 0.70711 0.70711 -21.28175 55.62132)" fill="#000000" width="1.99979" height="4.24264"/>
+    <rect x="43.00011" y="58.17157" transform="matrix(0.70711 -0.70711 0.70711 0.70711 -30.24621 48.97918)" fill="#000000" width="1.99979" height="5.65685"/>
+    <rect x="49.49957" y="56.95524" transform="matrix(0.70261 -0.71157 0.71157 0.70261 -28.00986 53.91724)" fill="#000000" width="2.00086" height="7.02701"/>
+    <rect x="55.5001" y="57.37638" transform="matrix(0.70526 -0.70895 0.70895 0.70526 -25.52411 57.59055)" fill="#000000" width="1.99979" height="4.23161"/>
+  </g>
+  <text x="0" y="115" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">Created by Yu luck</text>
+  <text x="0" y="120" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">from the Noun Project</text>
+</svg>

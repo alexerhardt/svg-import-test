@@ -1,0 +1,19 @@
+{
+  "name": "svg-load-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nested-imports-groups-only.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "oauth": "^0.9.15",
+    "svg.js": "2.6.1",
+    "svgdom": "git+https://github.com/svgdotjs/svgdom.git"
+  },
+  "devDependencies": {
+    "safe-json-stringify": "^1.0.4"
+  }
+}

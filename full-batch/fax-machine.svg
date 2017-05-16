@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" version="1.1" style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality;" viewBox="0 0 333 416.25" x="0px" y="0px" fill-rule="evenodd" clip-rule="evenodd">
+  <defs>
+    <style type="text/css">       .str0 {stroke:black;stroke-width:9.99606;stroke-linecap:round;stroke-linejoin:round}    .fil0 {fill:none}    .fil1 {fill:black}     </style>
+  </defs>
+  <g>
+    <rect class="fil0" x="33" width="333" height="333"/>
+    <path class="fil1" d="M38 63l7 0 0 141c0,56 89,56 89,0l0 -141 30 0 0 63 128 0 0 -63c16,0 31,5 31,25l0 154c0,13 -11,24 -24,24l-261 0c-13,0 -24,-11 -24,-24l0 -154c0,-14 11,-25 24,-25zm136 81l25 0 0 16 -25 0 0 -16zm0 28l25 0 0 17 -25 0 0 -17zm0 29l25 0 0 16 -25 0 0 -16zm44 -57l24 0 0 16 -24 0 0 -16zm0 28l24 0 0 17 -24 0 0 -17zm0 29l24 0 0 16 -24 0 0 -16zm43 -57l25 0 0 16 -25 0 0 -16zm0 28l25 0 0 17 -25 0 0 -17zm0 29l25 0 0 16 -25 0 0 -16z"/>
+    <path class="fil1" d="M88 32c20,0 35,12 35,31l0 141c0,41 -66,41 -66,0l0 -141c0,-17 14,-31 31,-31z"/>
+    <path class="fil0 str0" d="M180 24l97 0c8,0 15,7 15,15l0 90 -128 0 0 -89c0,-9 7,-16 16,-16z"/>
+    <rect class="fil1" x="181" y="53" width="94.4016" height="7.16142" rx="4" ry="4"/>
+    <rect class="fil1" x="181" y="72" width="94.4016" height="7.16142" rx="4" ry="4"/>
+    <rect class="fil1" x="181" y="91" width="94.4016" height="7.16142" rx="4" ry="4"/>
+  </g>
+  <text x="0" y="348" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">Created by Vallone Design</text>
+  <text x="0" y="353" fill="#000000" font-size="5px" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">from the Noun Project</text>
+</svg>
